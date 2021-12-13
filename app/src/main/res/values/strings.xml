@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Open Weather</string>
+    <string name="temperature_unit">Temperature Unit</string>
+    <string name="calendar">Daily Weather</string>
+    <string name="location">Location</string>
+    <string name="_8am">8am</string>
+    <string name="_1pm">1pm</string>
+    <string name="_5pm">5pm</string>
+    <string name="_11pm">11pm</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="prefs_file_key">USER_PREFS_KEY</string>
+</resources>

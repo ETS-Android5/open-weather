@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/temperature_unit_option"
+        android:icon="@drawable/units_f"
+        android:title="@string/temperature_unit"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/calendar_option"
+        android:icon="@drawable/daily"
+        android:title="@string/calendar"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/location"
+        android:icon="@drawable/location"
+        android:title="@string/location"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+</menu>
